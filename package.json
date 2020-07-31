@@ -1,0 +1,22 @@
+{
+  "name": "voidless-studios.com-design",
+  "version": "1.0.0",
+  "description": "Within this repo are the scss source files for the voidless-studios.com website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voidless-Studios/voidless-studios.com-design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Voidless-Studios/voidless-studios.com-design/issues"
+  },
+  "homepage": "https://github.com/Voidless-Studios/voidless-studios.com-design#readme",
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/@Voidless-Studios" 
+  }
+}
